@@ -1,0 +1,6 @@
+TargetRackBC,SourcePositionBC,TargetPositionID,RunDateTimeStamp,TargetPositionBC,VolumeTransferred,TargetTubeType,InitialSourceVolume
+SimulationRackB,K7X4CS6,A1,22_Jan_2020_150000,SimTubeBD_1,350,0.5mlFluidX,10000
+SimulationRackB,K7X4CS6,A2,22_Jan_2020_150000,SimTubeBD_2,350,0.5mlFluidX,10000
+SimulationRackB,K7X4CS6,A3,22_Jan_2020_150000,SimTubeBD_3,300,0.5mlFluidX,10000
+SimulationRackC,K7X4CS6,A1,22_Jan_2020_150000,SimTubeBD_4,500,0.5mlFluidX,10000
+SimulationRackC,K7X4CS6,A2,22_Jan_2020_150000,SimTubeBD_5,450,0.5mlFluidX,10000

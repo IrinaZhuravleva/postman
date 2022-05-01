@@ -1,0 +1,5 @@
+SourcePositionBC,VolumeTransferred,TargetRackBC,test1,TargetPositionID,TargetPositionBC,RunDateTimeStamp,InitialSourceVolume,TargetTubeType
+F0NU02U,400, NEWRACK111,aboba,A1, NEWTUBE111,12_Jan_2020_150000,600,1mlMatrix
+F0NU02U,300,NEWRACK111,aboba,A2,NEWTUBE222,12_Jan_2020_150000,600,1mlMatrix
+F0NU02U,500, NEWRACK222,aboba,A3,NEWTUBE333,12_Jan_2020_150000,600,1mlMatrix
+F0NU02U,400, NEWRACK222,aboba,A4,NEWTUBE444,12_Jan_2020_150000,600,1mlMatrix
